@@ -256,7 +256,9 @@ section.friday .divider, section.saturday .divider, section.sunday .divider{
     color: #707070;
     font-size: 12px;
 }
-
+h1.day-title{
+    padding-left: 10px;
+}
 
 
 /* ==========================================================================
