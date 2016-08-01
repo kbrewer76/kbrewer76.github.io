@@ -198,6 +198,18 @@ header.main .topbar{background-color: #14141e;
     background-repeat: no-repeat;
     height: 250px;
 }
+
+section.phoenix{
+    margin-top: 20px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 50px 0;
+    height: 100px;
+    text-align: center;
+    color: white;
+    position: relative;
+}
 section.friday .divider, section.saturday .divider, section.sunday .divider{
     height: 10px;
     background-color: #888888;
