@@ -192,12 +192,6 @@ header.main .topbar{background-color: #14141e;
     letter-spacing: 0.09em;
     text-transform: uppercase;
 }
-.profile{
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-    height: 250px;
-}
 
 section.phoenix{
     margin-top: 20px;
@@ -223,6 +217,7 @@ section.friday .divider, section.saturday .divider, section.sunday .divider{
 .container-camelback,
 .container-topgolf,
 .container-barbecue,
+.container-church,
 .container-sedona{
     margin-top: 20px;
     background-size: cover;
