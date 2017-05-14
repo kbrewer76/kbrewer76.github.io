@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "client_name" : "",
+  "contact_info": {
+    "phone": "",
+    "email": ""
+  },
+  "payment_info": {
+    "creditcard":{
+    "cardno": "",
+    "expiration_date": "",
+    "cvv": "",
+    "country": "",
+    "zipcode": ""
+    },
+    "paypal_username":""
+  },
+  "service_interest": [
+  ],
+  "profile_pic":"",
+  "perferred_provider":"provider_id"
+}
+  
